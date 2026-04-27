@@ -1,3 +1,4 @@
+
 🐰 Easter Physical Tamagotchi — Connect Byte
 
 A creative electronics project where participants build an interactive Easter-themed object that blends crafting, storytelling, and hardware in a playful and hands-on way ✨
